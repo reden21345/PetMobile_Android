@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "frontend",
+    "slug": "frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/2.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/1.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.reden21345.frontend"
+    },
+    "web": {
+      "favicon": "./assets/1.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bd53c8f0-41b0-43d5-9e2e-84f75c3880f4"
+      }
+    }
+  }
+}
